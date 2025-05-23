@@ -1,3 +1,9 @@
+.App-logo.img-fluid {
+  max-width: 400px !important;
+  display: block;
+  margin: 0 auto;
+}
+
 body {
   background: #9d9dcc;
 }
