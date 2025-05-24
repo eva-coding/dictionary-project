@@ -14,8 +14,20 @@ function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Eva Machova, hosted on Netlify, code available on{" "}
-            <a href="https://github.com/eva-coding/dictionary-project">
+            Coded by{" "}
+            <a
+              href="https://www.linkedin.com/in/eva-machova/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Eva Machova
+            </a>
+            , hosted on Netlify, code is open-source on{" "}
+            <a
+              href="https://github.com/eva-coding/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
               GitHub
             </a>
           </small>
